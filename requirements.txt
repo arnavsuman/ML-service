@@ -4,4 +4,7 @@ pandas
 numpy
 joblib
 scikit-learn
-lightgbm optuna
+lightgbm
+optuna
+gradio
+
